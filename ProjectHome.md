@@ -1,0 +1,1 @@
+Aplicación que permite publicar información institucional de un colegio.
